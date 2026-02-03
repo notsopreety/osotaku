@@ -24,6 +24,7 @@ export default function Contributing() {
       "description": "The journey starts...",
       "thumbnail": "https://cdn.example.com/ep-1.jpg",
       "duration": 1420,
+      "updatedOn": "2026-02-03",
       "sources": [
         {
           "server": "streamsb",

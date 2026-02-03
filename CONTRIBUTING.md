@@ -46,6 +46,7 @@ Create or edit a file at `public/data/{anilistId}.json`:
       "description": "Brief description (optional)",
       "thumbnail": "https://cdn.example.com/thumbnail.jpg",
       "duration": 1420,
+      "updatedOn": "2026-02-03",
       "sources": [
         {
           "server": "ServerName",
@@ -74,6 +75,7 @@ Create or edit a file at `public/data/{anilistId}.json`:
       "description": "The journey starts as the main character discovers a hidden power.",
       "thumbnail": "https://cdn.example.com/thumbnails/ep-1.jpg",
       "duration": 1420,
+      "updatedOn": "2026-02-03",
       "sources": [
         {
           "server": "streamsb",
@@ -107,6 +109,7 @@ Create or edit a file at `public/data/{anilistId}.json`:
       "description": "A sudden enemy attack forces an unexpected fight.",
       "thumbnail": "https://cdn.example.com/thumbnails/ep-2.jpg",
       "duration": 1395,
+      "updatedOn": "2026-02-03",
       "sources": [
         {
           "server": "vidcloud",

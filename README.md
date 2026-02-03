@@ -73,6 +73,7 @@ The most impactful contribution is adding streaming sources for anime. See [CONT
     {
       "epId": "ep-1",
       "title": "Episode Title",
+      "updatedOn": "2026-02-03",
       "sources": [
         {
           "server": "ServerName",
