@@ -1,0 +1,114 @@
+{
+  "episodes": [
+    {
+      "epId": "ep-1",
+      "title": "Execution",
+      "description": "While Yuji grapples with the weight of his sins, Naoya Zen'in and Yuta Okkotsu set out to execute him.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/ec989f3ad65a683becfb0a2d213bdffd.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-03",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/7c581b412887d3ddcf188128ec7d7cd5",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-2",
+      "title": "One More Time",
+      "description": "After fighting Yuta, Yuji learns his real objective. Megumi asks for Yuji's help to save his sister.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/96914d895a7159ce5e8d41823834a427.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-03",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/00e53a7bf746f90a6700232281a0a6d0",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-3",
+      "title": "About the Culling Game",
+      "description": "Itadori and his friends speak with Tengen about Kenjaku's objectives and their plans for the Culling Game.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/5f0d0ecf49c131d71729a27d7d587da7.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-03",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/81af2033b7aa45018b5c0350490a8e8f",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-4",
+      "title": "Perfect Preparation",
+      "description": "After going to collect their Cursed Tools, Maki awakens her true potential & slaughters the whole Zen'in Clan.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/7ecf1a3f532476e03000441b1c8038c3.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-03",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/d064f3519426dcd30114b900431fc044",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-5",
+      "title": "Passion",
+      "description": "Yaga is executed. Yuji and Fushiguro go to Hakari's fight club hoping to meet him and recruit him.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/f31d00820cfb7f6d0258c591a4a8e175.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-03",
+      "sources": [
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "sub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://short.icu/5BNmDSdCh",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "episodes": [
+    {
+      "epId": "movie",
+      "title": "Chainsaw Man – The Movie: Reze Arc",
+      "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle",
+      "thumbnail": "https://img.freeimagecdn.net/image/lsgCsF2JI.jpg",
+      "duration": 6000,
+      "updatedOn": "2026-02-02",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/8321e047fb413f251abf34adf1e49a1b",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9sc2dDc0YySkkifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9OclZzOUNwZVoifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvN3ZZT0g0T3ZJIn1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
