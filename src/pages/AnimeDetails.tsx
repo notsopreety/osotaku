@@ -642,14 +642,14 @@ const AnimeDetails = () => {
 
         {/* Tabs Section */}
         <Tabs defaultValue="episodes" className="mt-12">
-          <TabsList className="mb-6">
-            <TabsTrigger value="episodes">
+          <TabsList className="mb-6 flex flex-wrap gap-1 h-auto p-1">
+            <TabsTrigger value="episodes" className="flex-1 min-w-[100px] sm:flex-none">
               {anime.format === 'MOVIE' ? 'Movie' : 'Episodes'}
             </TabsTrigger>
-            <TabsTrigger value="characters">Characters</TabsTrigger>
-            <TabsTrigger value="staff">Staff</TabsTrigger>
-            <TabsTrigger value="relations">Relations</TabsTrigger>
-            <TabsTrigger value="recommendations">Recommendations</TabsTrigger>
+            <TabsTrigger value="characters" className="flex-1 min-w-[100px] sm:flex-none">Characters</TabsTrigger>
+            <TabsTrigger value="staff" className="flex-1 min-w-[100px] sm:flex-none">Staff</TabsTrigger>
+            <TabsTrigger value="relations" className="flex-1 min-w-[100px] sm:flex-none">Relations</TabsTrigger>
+            <TabsTrigger value="recommendations" className="flex-1 min-w-[100px] sm:flex-none">Recommendations</TabsTrigger>
           </TabsList>
 
           {/* Episodes Tab */}
