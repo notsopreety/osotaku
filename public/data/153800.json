@@ -1,0 +1,373 @@
+{
+  "episodes": [
+    {
+      "epId": "ep-1",
+      "title": "Strategy Meeting",
+      "description": "The heroes plan a rescue of a child kidnapped by monsters, while Garou awakens deep underground.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=1200,height=675/catalog/crunchyroll/7da8b8b10b0a8ec0548f1a4d878f8463.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/6145e68bda614971203985cec5982a6b",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9tSlNYYzJRS3UifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93UVNlSWhZQzAifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvX3p4Q25CQUYwIn1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-2",
+      "title": "Monster Traits",
+      "description": "On his way to hunt heroes, Garou dines and dashes at a restaurant, but is chased by Saitama.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/11764dba5ad58f08679efb343eaf5695.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/6b42c916702e0bd86f86a3bb84fc7aa2",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9vY2MxU2NRQUMifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC95U0NTQkNJTmUifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvaGs1enRtMEx0In1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-3",
+      "title": "Organism Limits",
+      "description": "Garou fights Insect God and King the Ripper, while Tareo gets kidnapped. Dr. Kuseno visits Saitama.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/7e6a90e131a947c7b7595fb937facfd4.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/010b229957fa385ab3198cbaad6e4e59",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ZWGFHS3hNWFgifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC94Zm9NUU02ajEifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvcXJDYk5CejFBIn1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-4",
+      "title": "Counterattack Signal",
+      "description": "The heroes prepare for battle without Silverfang and Genos. Garou attacks the Monster Association.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/ddb4a251e03b247d918cac9000433e55.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/72f9f967c43ce5c44ea12bf78ae63eaf",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9SNHM0NExoSHUifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9TVmZmV3RadGEifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTUpiVmZMV0JaIn1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-5",
+      "title": "Monster King",
+      "description": "Garou rescues Tareo but is struck by Overgrown Pochi, falling to Orochi and Gyoro-Gyoro.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/83291b418ac5adf02414fe711bfc6446.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/6a979d4a9cf85135408529edc8a133d0",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9adVp5QWZERnoifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9BaEZZN25zM0EifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvY25BelNuSWM4In1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-6",
+      "title": "Motley Heroes",
+      "description": "Class-S heroes plan the Monster Association assault, but Amai Mask arrives and clashes with them.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=1200,height=675/catalog/crunchyroll/3ded5fd57f475d07dbd2ab838264d1f2.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://megaplay.buzz/stream/s-2/155745/sub",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://megaplay.buzz/stream/s-2/155745/dub",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-7",
+      "title": "Counterstrike",
+      "description": "Heroes arrive in Z City but face a monster ambush. A-class aids while Gyoro-Gyoro watches the fight.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/3fa5678082316c0a89fce3da7563bd35.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://megaplay.buzz/stream/s-2/156673/sub",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://megaplay.buzz/stream/s-2/156673/dub",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-8",
+      "title": "Ninja Tale",
+      "description": "Tempest Wind and Hellfire Flame, who were ninjas but are now monsters, battle with Flashy Flash.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/bfd34f46b910d9757d8655daecc8ea1c.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://megaplay.buzz/stream/s-2/157965/sub",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://megaplay.buzz/stream/s-2/157965/dub",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-9",
+      "title": "Brave Child",
+      "description": "Child Emperor finds Waganma and faces Phoenix Man, using his ultimate weapon to protect him.",
+      "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/0083ee46c29284ebe337d5ff402f5dc3.png",
+      "duration": 1380,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://megaplay.buzz/stream/s-2/159297/sub",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://megaplay.buzz/stream/s-2/159297/dub",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-10",
+      "title": "Immortal Bloodbath",
+      "description": "Zombieman faces Vampire, a descendant of a supernatural bloodline, in a brutal, deadly showdown.",
+      "thumbnail": "https://i.animepahe.si/snapshots/57028ce5497b5c139d842202059eebd9c06a448923dddf4bcb54508af7222762.jpg",
+      "duration": 1441,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "SubsPlease 1080p (209MB)",
+          "type": "embed",
+          "audio": "sub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://short.icu/w2hBPba03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-11",
+      "title": "Top Dragons",
+      "description": "Child Emperor rescues Waganma. The heroes take on threat-level Dragon monsters in a deadly fight.",
+      "thumbnail": "https://i.animepahe.si/snapshots/8efb8754454e0013ac50a131fc708a0eeaab42cbce27b6ac07107b1f0d230c6e.jpg",
+      "duration": 1441,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "SubsPlease 1080p (237MB)",
+          "type": "embed",
+          "audio": "sub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://short.icu/Ckr4IxuzPG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epId": "ep-12",
+      "title": "Ultimate Lifeform",
+      "description": "The heroes battle monsters while Terrible Tornado faces Gyoro-Gyoro. Orochi appears before Saitama.",
+      "thumbnail": "https://i.animepahe.si/snapshots/87c3483b9011a7d71ef01eb818375dd8694b02b774b5abf637937082d6f31186.jpg",
+      "duration": 1436,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "SubsPlease 1080p (264MB)",
+          "type": "embed",
+          "audio": "sub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://short.icu/LIe0y6biY"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
