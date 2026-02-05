@@ -1,0 +1,38 @@
+{
+  "episodes": [
+    {
+      "epId": "movie",
+      "title": "Your Name.",
+      "description": "",
+      "thumbnail": "",
+      "duration": 6360,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/46a731f4af282372a4097ba1e4d76b95",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ZZ3drdXcxZWEifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9JOGFTRmtjcVMifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUXRPTk9mZjMyIn1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
