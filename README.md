@@ -106,6 +106,11 @@ A huge thank you to everyone who has contributed to OsOtaku!
 
 Special thanks to all the community members who help maintain and improve the project!
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=notsopreety/osotaku&type=Date)](https://www.star-history.com/#notsopreety/osotaku&Date)
+
+
 ## 🗺️ Sitemap Generation
 
 For production builds, generate a sitemap that includes all anime with available episodes:
