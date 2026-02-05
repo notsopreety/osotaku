@@ -1,0 +1,26 @@
+{
+  "episodes": [
+    {
+      "epId": "movie",
+      "title": "Pokémon Heroes",
+      "description": "Ash, Pikachu and his friends try and stop a pair of thieves hiding out in the canals and alleyways of Altomare, the age-old water capital. Joining the adventure are two new legendary Pokémon, a pair of siblings named Latias and Latios, who serve as peacekeepers and protectors of the Soul Dew - a priceless treasure with a mysterious power.",
+      "thumbnail": "",
+      "duration": 4260,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8xTWFlM2JhbGcifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC91c3BrbmVNa00ifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWWZkZEJFZEZsIn1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

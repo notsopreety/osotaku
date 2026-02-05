@@ -1,0 +1,38 @@
+{
+  "episodes": [
+    {
+      "epId": "movie",
+      "title": "Suzume",
+      "description": "Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
+      "thumbnail": "",
+      "duration": 7320,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/d0231cd3ec12768a73c40062ca8eda79",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC90bkVUVHNZUlUifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9uTkJpclk4bDIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRko2Sms5T2cwIn1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

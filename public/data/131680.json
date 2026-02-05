@@ -1,0 +1,38 @@
+{
+  "episodes": [
+    {
+      "epId": "movie",
+      "title": "Black Clover: Sword of the Wizard King",
+      "description": "As a lionhearted boy who can't wield magic strives for the title of Wizard King, four banished Wizard Kings of yore return to crush the Clover Kingdom.",
+      "thumbnail": "",
+      "duration": 6780,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://as-cdn21.top/video/8248a99e81e752cb9b41da3fc43fbe7f",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "server": "Abyss",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC92dU4tb2xrWFhoIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWGVRLWkxbWtKIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0p4eEhpN1dSVCJ9XQ%3D%3D",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

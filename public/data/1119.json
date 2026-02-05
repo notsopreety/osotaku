@@ -1,0 +1,26 @@
+{
+  "episodes": [
+    {
+      "epId": "movie",
+      "title": "Pokémon 4Ever",
+      "description": "In order to escape a greedy Pokémon hunter, Celebi must use the last of its energy to travel through time to the present day. Celebi brings along Sammy, a boy who had been trying to protect it. Along with Ash, Pikachu, and the rest of the gang, Sammy and Celebi must encounter an enemy far more advanced than the hunter, with the fate of the forest hanging in the balance.",
+      "thumbnail": "",
+      "duration": 4800,
+      "updatedOn": "2026-02-05",
+      "sources": [
+        {
+          "server": "AS-CDN",
+          "type": "embed",
+          "audio": "dub",
+          "addedBy": "sawmer",
+          "data": [
+            {
+              "url": "https://animesalt.top/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9TSEloT3RlYzgifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9lODRfenhnOWcifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVUNiNXJUSlFLIn1d",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
